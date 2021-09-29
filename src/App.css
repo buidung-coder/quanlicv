@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    margin: 10px;
+}
+
+.fas {
+    font-size: 12px;
+    color: #000;
+}
+.header-control{
+    width: 100%; 
+    display: flex;
+}
+
+.header-control .input-group {
+    padding-right: 10px;
+}
+.btn-outline-secondary {
+    font-size: 14px;
+}
+
+.action {
+    display: flex;
+}
+
+.table {
+    margin: 50px 0;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.action {
+    margin: 10px;
+    border: none;
+}
+
+.form-heading .fas {
+    float: right;
+    font-size: 20px;
+}
+
+.btn-cancel {
+    margin-left: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
